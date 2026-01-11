@@ -1,0 +1,22 @@
+# Python
+__pycache__/
+*.pyc
+
+# Virtual environment
+railenv/
+.env/
+
+# Datasets
+dataset_classification/
+dataset_detection/
+dataset_detection_B/
+
+# YOLO runs (keep results images separately if needed)
+runs/
+
+# Weights
+*.pt
+
+# OS
+.DS_Store
+Thumbs.db
